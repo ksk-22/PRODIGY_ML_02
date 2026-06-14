@@ -23,12 +23,12 @@ Mall Customers Dataset
 ## Results
 
 ### Elbow Method
-![Elbow Method](screenshots/elbow_method.png)
+![Elbow Method](Elbow%20Method.png)
 
 The elbow method is used to determine the optimal number of clusters for K-Means clustering.
 
 ### Customer Segmentation Clusters
-![Customer Segmentation](screenshots/customer_segments.png)
+![Customer Segmentation](Customer%20Segmentation.png)
 
 The scatter plot shows customer groups based on Annual Income and Spending Score.
 
